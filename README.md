@@ -2,4 +2,4 @@
 
 ## Screenshots:
 
-<img alt="Screenshot" src="https://user-images.githubusercontent.com/43573153/94141566-9a34c600-fe75-11ea-8e34-a1ff6fa08824.png">
+<img alt="Screenshot" src="https://user-images.githubusercontent.com/43573153/94142602-390df200-fe77-11ea-8ed6-922b5a464177.png">
