@@ -1,4 +1,4 @@
-# Wpf application for turn off windows after a while
+# WPF application for turn off windows after a while
 
 ## Screenshots:
 
