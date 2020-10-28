@@ -4,4 +4,4 @@
 
 ## Screenshots:
 
-<img alt="Screenshot" src="https://user-images.githubusercontent.com/43573153/94158238-d6beec80-fe8a-11ea-88d0-290347da5e97.png">
+<img alt="Screenshot" src="https://user-images.githubusercontent.com/43573153/97412282-089ff480-190a-11eb-8697-b3e5e924de4d.png">
